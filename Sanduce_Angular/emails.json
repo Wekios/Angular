@@ -1,0 +1,57 @@
+[
+  {
+    "from": "Marko Markovic",
+    "datetime": 1420816800000,
+    "subject": "U gradu sam...",
+    "message": "Ej, upravo sam dosao iz Londona. Zelis da odemo na kafu do grada?",
+    "unread": true
+  },
+
+   {
+    "from": "Nikola Nikolic",
+    "datetime": 1420809000000,
+    "subject": "Pozivnica",
+    "message": "Pozivam vas na moj 48. rodjendan, nadam se da nije zadnji. Pozdrav!",
+    "unread": true
+  },
+
+  {
+    "from": "Google Voice",
+    "datetime": 1420694340000,
+    "subject": "Propusten video-poziv od (381) 64-04-09-999 u 5:19 AM",
+    "message": "Missed call from: (381) 64-04-09-999 at 5:19 AM",
+    "unread": false
+  },
+
+  {
+    "from": "Petar Petrovic",
+    "datetime": 1420543620000,
+    "subject": "Web developer!",
+    "message": "Hej covece, da li si cuo za novu facu u gradu. Upravo mu gledam portfolio. Bas me zanima tvoje misljenje, za sad je predobro!!!",
+    "unread": false
+  },
+
+  {
+    "from": "Apple Apps",
+    "datetime": 1420509780000,
+    "subject": "Subsribe",
+    "message": "",
+    "unread": false
+  },
+
+  {
+    "from": "Marija Maric",
+    "datetime": 1420386780000,
+    "subject": "Why so serious?",
+    "message": "Da li zelis da odemo u bioskop sutra uvece? Imam dve karte za film!",
+    "unread": false
+  },
+
+  {
+    "from": "Test Testing",
+    "datetime": 1420224600000,
+    "subject": "Lorem Ipsum?",
+    "message": " dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum orci vitae nisl dictum tincidunt. Etiam ornare nec ante vitae mollis. ",
+    "unread": false
+  }
+]
